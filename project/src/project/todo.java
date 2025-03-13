@@ -142,8 +142,8 @@ class Game {
 
 class mysqlconnection  {
 	String sql = "INSERT INTO tictactoe (player1, player2, result) VALUES (?, ?, ?)";
-String 	username="root";
-String password="13feb2005";
+String 	username="xxxxxx"; //enter your username 
+String password="13XXXXX";// enter your pass
 String url="jdbc:mysql://localhost:3306/javaproject";
 int rowsAffected;
 
